@@ -47,12 +47,13 @@
 > Credits: Rudra
 
 ### Assembly, Setup and Calibration Instructions
-- Arrange the components as shown in the circuit diagram and complete the necessary connections. The circuit diagrams and Arduino Bluetooth Controller app screenshots can be found in the Wiki section of our repository.
+- Arrange the components as shown in the circuit diagram and complete the necessary connections.
 - Connect the Arduino board to the laptop, disconnect the tx and rx pins of the bluetooth module and upload the code.
 - Disconnect the Arduino board from laptop and connect the tx and rx pins of bluetooth module.
 - Turn the switch on, connect the bluetooth module with phone.
 - Calibrate the bluetooth app as shown in the attached image.
 - Now the rover is ready for some action!
+#### **Note: The circuit diagrams and Arduino Bluetooth Controller app screenshots can be found in the Wiki section of our repository.**
 
 
 ## Credits, citations and references:
