@@ -47,7 +47,7 @@
 > Credits: Rudra
 
 ### Assembly, Setup and Calibration Instructions
-- Arrange the components as shown in the circuit diagram and complete the necessary connections.
+- Arrange the components as shown in the circuit diagram and complete the necessary connections. The circuit diagrams and Arduino Bluetooth Controller app screenshots can be found in the Wiki section of our repository.
 - Connect the Arduino board to the laptop, disconnect the tx and rx pins of the bluetooth module and upload the code.
 - Disconnect the Arduino board from laptop and connect the tx and rx pins of bluetooth module.
 - Turn the switch on, connect the bluetooth module with phone.
